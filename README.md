@@ -15,14 +15,6 @@
   <img src="https://img.shields.io/badge/c-F37B68?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
-
-
-my current interests in comp-sci :
-- social bots detection on twitter
-- managing big data with spark
-
-<hr>
-
 my personnal interests :
 - animals of all kind
 - magic the gathering
