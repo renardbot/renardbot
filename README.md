@@ -1,4 +1,4 @@
-<h1 align="center">hey 🦊 - name's Evan</h1>
+<h1 align="center">hey 🦊 - name's Mutt</h1>
 <h3 align="center">datapilled fox-lover</h3>
 
 <p align="center">
